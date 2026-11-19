@@ -55,7 +55,7 @@ Dos avalúos (P1 antes y P2 después del hecho generador); zonas/subzonas geoeco
 Recursos de revisión e impugnación: motivos (normatividad urbanística, selección del método, desarrollo del método).
 
 ## TÍTULO IX — Disposiciones finales (arts. 58–61)
-Entrega de la información al OIC (58); transitoriedad (59); **vigencia y derogatoria** (60); publicación (61). Vigencia del avalúo según el propósito: Decreto 1170 = 1 año; otros propósitos según la política de quien lo use (la 941 no fija un plazo general).
+Entrega de la información al OIC (58); transitoriedad (59); **vigencia y derogatoria** (60); publicación (61). **Nota de contexto (no es punto de validación de la 941):** la 941 NO fija la vigencia del avalúo; para los encargos del Decreto 1170 de 2015 —a los que la 941 aplica de forma obligatoria— rige 1 año.
 
 ## Anexo Técnico
 Glosario, desarrollo de los métodos y tablas: vidas útiles (Tabla 2), estados de conservación Heideck 1.0–5.0 (Tablas 4 y 5), coeficientes K de Ross-Heidecke (Tabla 7), modelos de costos agrícolas y pecuarios, esquema de plusvalía y fórmulas de apoyo. Toda cifra del informe debe ser trazable a estas bases cuando apliquen.
@@ -71,7 +71,6 @@ Glosario, desarrollo de los métodos y tablas: vidas útiles (Tabla 2), estados 
 - [ ] Costo: depreciación por Ross-Heidecke; vida útil de referencia (Tabla 2); VUP si aplica; BIC sin depreciación por edad.
 - [ ] Procedimiento específico del caso (Título IV) y, si aplica, rural/protección/plusvalía (Títulos V–VII).
 - [ ] Áreas que multiplican bien; cifras con fuente; números en formato colombiano (coma decimal).
-- [ ] Vigencia acorde al propósito.
 
 ## Formato del informe de validación (salida)
 Entregue SIEMPRE así, citando el **numeral del informe** y el **artículo de la 941** en cada punto:
