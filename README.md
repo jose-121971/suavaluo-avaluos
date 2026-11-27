@@ -6,6 +6,8 @@ Skill para **revisar informes de avalúo** en Colombia contra la **Resolución I
 
 **Licencia:** Creative Commons Atribución 4.0 (CC BY 4.0). Úsela y compártala conservando la atribución. Ver LICENSE.
 
+**Guía en PDF:** [Guia-Resolucion-941-Avaluadores-Suavaluo.pdf](Guia-Resolucion-941-Avaluadores-Suavaluo.pdf) — instalación y uso, paso a paso.
+
 ## Qué es
 La skill «informe-avaluo-941» es un conjunto de instrucciones basadas en la Resolución IGAC 941 de 2026 que usted instala en **Claude** (la inteligencia artificial de Anthropic). Con ella, Claude revisa su informe de avalúo contra esa resolución y le devuelve un resultado. La revisión no es manual: la hace Claude. Usted sube el informe, escribe una frase y lee el resultado.
 
